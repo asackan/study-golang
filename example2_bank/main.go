@@ -2,11 +2,9 @@ package main
 
 import (
 	"fmt"
-
-	bank "github.com/asackan/study-golang/example2_bank/accounts"
 )
 
 func main() {
-	account := bank.NewAccount()
+	account := accounts.NewAccount("nico")
 	fmt.Println(account)
 }
