@@ -1,4 +1,3 @@
-# 목적
-
+# Study Go lang
 [Golang Study](https://nomadcoders.co/)
 해당 강의를 따라 스터디함
